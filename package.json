@@ -1,0 +1,16 @@
+{
+  "name": "cloud-integration-app",
+  "version": "1.0.0",
+  "description": "Une application pour l'intégration et la synchronisation de données à travers divers services cloud.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1"
+  },
+  "author": "Votre Nom",
+  "license": "MIT"
+}
