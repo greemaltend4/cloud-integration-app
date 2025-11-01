@@ -3,7 +3,7 @@
 Merci de votre intérêt pour contribuer à ce projet!
 
 ## Comment Contribuer
-1. Fork ce dépôt.
+1. Forkez ce dépôt.
 2. Créez une branche pour votre fonctionnalité (`git checkout -b feature/AmazingFeature`).
 3. Apportez vos modifications et assurez-vous de les tester.
 4. Soumettez une Pull Request.
