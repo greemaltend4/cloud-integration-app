@@ -1,7 +1,7 @@
 {
   "name": "cloud-integration-app",
   "version": "1.0.0",
-  "description": "Une application pour l'intégration et la synchronisation de données à travers divers services cloud.",
+  "description": "An application for data integration and synchronization across various cloud services.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
