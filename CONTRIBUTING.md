@@ -12,4 +12,7 @@ Merci de votre intérêt pour contribuer à ce projet!
 - Respectez le style de code de ce projet.
 - Préférez les demandes de fusion petites et spécifiques, car cela facilitera la révision.
 
+## Remarques
+- Assurez-vous de documenter toute nouvelle fonctionnalité.
+
 Merci de respecter ces lignes directrices et de contribuer à notre projet!
